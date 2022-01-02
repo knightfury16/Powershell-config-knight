@@ -16,7 +16,7 @@
 
 ## Use Git-Alias
 - To use Git-Alias create a folder name ``Git-Alias`` in powershell modules directory and paste the file ``Git-Alias.psm1`` 
-- Now use the alias provided in the file or add your own.
+- Now use the alias provided in the file or add your own. For example type ``s`` and enter, will give the ``git status`` result.
 
 ## To know where your poweshell profile is
 
