@@ -13,3 +13,11 @@
 
 ## Font used
 - [`Hack NF`](https://github.com/ryanoasis/nerd-fonts) - Hack font from nerd font family
+
+## Use Git-Alias
+- To use Git-Alias create a folder name ``Git-Alias`` in powershell modules directory and paste the file ``Git-Alias.psm1`` 
+- Now use the alias provided in the file or add your own.
+
+## To know where your poweshell profile is
+
+Type ``$PROFILE`` in powershell and hit enter, it will print out the path of the profile. The module directory will be there too.
